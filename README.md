@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @bugphilic
+- 👀 I’m interested in creating bugs and solving them too
+- 🌱 I’m currently learning AI?DL
+- 💞️ I’m looking to collaborate on Flutter, Dart, node js projects
+- 📫 How to reach me bugphilic@gmail.com
+- ⚡ Fun fact: I like creating bugs
